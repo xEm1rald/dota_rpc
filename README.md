@@ -7,7 +7,7 @@ Display your **Dota 2 in-game stats** as a rich presence in Discord — powered 
 ## ⚙️ How to Use
 
 1. **Download & Install**
-   - Get the latest `.exe` from the [Releases](#) page *(or clone this repository)*.  
+   - Get the latest `.exe` from the [Releases](https://github.com/xEm1rald/dota_rpc/releases) page *(or clone this repository)*.  
    - Run the application.
 
 2. **Configure Game State Integration**
